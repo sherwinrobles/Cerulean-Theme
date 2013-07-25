@@ -1,0 +1,18 @@
+{
+	"name" : "Cerulean",
+	"description" : "Port of Cerulean theme from http://bootswatch.com/cerulean/ for Croogo",
+	"screenshot" : "screenshot.png",
+
+	"author" : "Sherwin Robles",
+	"authorEmail" : "sherwinrobles@gmail.com",
+	"authorUrl" : "http://github.com/sherwinrobles/Cerulean-Theme",
+
+	"menus" : [
+		"main",
+		"footer"
+	],
+
+	"regions" : [
+		"right"
+	]
+}
