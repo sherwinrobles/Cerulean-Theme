@@ -2,7 +2,7 @@ The MIT License
 ---------------
 
 Cerulean Theme : A Croogo Port of Cerulean theme from Bootswatch
-Copyright 2013, Sherwin Robles <rchavik@gmail.com>
+Copyright 2013, Sherwin Robles <sherwinrobles@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
