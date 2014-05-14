@@ -2,4 +2,7 @@
 if (empty($options)) {
 	$options = array();
 }
-echo $this->Custom->nestedLinks($menu['threaded'], $options);
+
+if(!empty($menu['threaded'])){
+	echo $this->Custom->nestedLinks($menu['threaded'], $options);
+}
